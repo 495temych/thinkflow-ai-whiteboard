@@ -22,3 +22,8 @@ venv/
 # general
 dist/
 build/
+
+
+backend/generated_docs/
+node_modules/
+.DS_Store
